@@ -3,7 +3,7 @@
 #include "malloc.h"
 #include "corecrt_malloc.h"
 #define STACK_INIT_SIZE 1
-#define STACKINCREAMENT 10
+#define STACKINCREAMENT 10 
 //∂®“Â ’ª
 typedef struct SqStack
 {
